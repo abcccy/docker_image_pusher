@@ -1,2 +1,1 @@
-p3terx/aria2-pro
-jonnyan404/verysync
+jc21/nginx-proxy-manager
