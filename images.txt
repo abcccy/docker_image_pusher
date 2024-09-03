@@ -1,1 +1,1 @@
-chishin/nginx-proxy-manager-zh:release
+vaultwarden/server
