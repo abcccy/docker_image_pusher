@@ -1,1 +1,1 @@
-jc21/nginx-proxy-manager
+chishin/nginx-proxy-manager-zh:release
