@@ -1,1 +1,1 @@
-neilpang/acme.sh
+sissbruecker/linkding:latest
