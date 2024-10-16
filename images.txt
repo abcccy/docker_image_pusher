@@ -1,1 +1,1 @@
-diygod/rsshub
+alexxit/go2rtc
