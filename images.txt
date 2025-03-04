@@ -1,1 +1,1 @@
-vaultwarden/server
+jellyfin/jellyfin
