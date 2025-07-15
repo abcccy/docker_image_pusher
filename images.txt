@@ -1,1 +1,1 @@
-ghcr.io/imagegenius/immich
+jwy8645/sing-box-subscribe:amd64
