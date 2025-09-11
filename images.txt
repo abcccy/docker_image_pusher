@@ -1,1 +1,1 @@
-tearsful/gecoosac:latest
+lscr.io/linuxserver/daapd:latest
