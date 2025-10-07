@@ -1,1 +1,1 @@
-traccar/traccar:latest
+eclipse-mosquitto
