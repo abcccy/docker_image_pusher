@@ -1,1 +1,1 @@
-likeflyme/cloudbak
+deluan/navidrome:latest
