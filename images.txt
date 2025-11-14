@@ -1,1 +1,1 @@
-alexxit/go2rtc
+taksss/php-epg:latest
