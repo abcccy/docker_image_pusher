@@ -1,1 +1,2 @@
-diluka/nas-tools:2.9.1
+linuxserver/jackett
+allanpk716/chinesesubfinder:latest-lite
