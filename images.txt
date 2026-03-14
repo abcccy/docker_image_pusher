@@ -1,2 +1,1 @@
-linuxserver/jackett
-allanpk716/chinesesubfinder:latest-lite
+linuxserver/tvheadend
